@@ -55,3 +55,9 @@ li{
 	width: 300px;
 	background-color: rgba(173, 216, 230, 0.534);
 }
+
+.yellow{
+	display: flex;
+	background-color: yellow;
+	padding: 10px 50px;
+}
